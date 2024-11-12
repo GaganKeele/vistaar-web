@@ -1,13 +1,13 @@
 
 import React from 'react';
-import Home from './components/home';
+import Home from './components/Home';
 
 
 function App() {
 
   return (
     <div className='Main'>
-      <Home></Home>
+      <Home>p</Home>
       
       </div>
   )
